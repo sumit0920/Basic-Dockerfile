@@ -1,10 +1,14 @@
 
-# Hello Captain - Docker Project
+# Basic Docker Project
 
 This is a simple Docker project that demonstrates how to build a minimal Docker image using **alpine:latest** and print `Hello, Captain!` to the console.
 
 ---
 
+# Project URL
+```
+https://roadmap.sh/projects/basic-dockerfile
+```
 ## Project Structure
 ```
 
@@ -42,7 +46,10 @@ Hello, Captain!
 
 ## Diagram
 
-![Docker Flow](diagram.png)
+Docker Flow
+
+<img width="1536" height="1024" alt="Image Aug 29, 2025, 10_40_16 PM" src="https://github.com/user-attachments/assets/01be4e4b-ea0c-43c2-9860-bb3b2f6aa432" />
+
 
 ---
 
@@ -75,12 +82,10 @@ docker push your-dockerhub-username/hello-captain
 
 ---
 
-## Author
+## **Author**
 
-Created by **Your Name** 🚀
-
-```
-
----
-
-## **5. Architecture Diagram (diagram.png)**
+**Sumit Sharma**
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumitsharma-ss/)
+- [![X](https://img.shields.io/badge/X-black?style=flat&logo=twitter&logoColor=white)](https://x.com/sumitsharma_95)
+- [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@devopswithsumit)
+- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/sumit0920)
