@@ -48,7 +48,8 @@ Hello, Captain!
 
 Docker Flow
 
-<img width="1536" height="1024" alt="Image Aug 29, 2025, 10_40_16 PM" src="https://github.com/user-attachments/assets/01be4e4b-ea0c-43c2-9860-bb3b2f6aa432" />
+<img width="961" height="482" alt="Docker" src="https://github.com/user-attachments/assets/bcd37b05-4387-4457-9a69-199361e253b8" />
+
 
 
 ---
